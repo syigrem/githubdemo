@@ -14,7 +14,7 @@ def div(a, b):
 def mod(a, b):
 	return a % b
 
-#Mark: Our main method which will run when we call the program
+#Mark: Our main method which will run when we call the application
 def main():
 	a = 66	#First number
 	b = 33	#Second number
